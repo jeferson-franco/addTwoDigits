@@ -1,0 +1,20 @@
+{
+  "name": "addtwodigits",
+  "version": "1.0.0",
+  "description": "You are given a two-digit integer `n`. Return the sum of its digits.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeferson-franco/addTwoDigits.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeferson-franco/addTwoDigits/issues"
+  },
+  "homepage": "https://github.com/jeferson-franco/addTwoDigits#readme"
+}
